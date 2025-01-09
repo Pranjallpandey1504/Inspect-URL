@@ -1,0 +1,37 @@
+[
+  {
+    "activeUrls": [
+      {
+        "url": "https://www.google.com",
+        "searchParams": {},
+        "status": "valid"
+      },
+      {
+        "url": "https://www.ex@ample.com",
+        "searchParams": {},
+        "status": "valid"
+      },
+      {
+        "url": "https://www.spam.com",
+        "searchParams": {},
+        "status": "valid"
+      },
+      {
+        "url": "https://www.google.com",
+        "searchParams": {},
+        "status": "valid"
+      },
+      {
+        "url": "https://www.instagram.com",
+        "searchParams": {},
+        "status": "valid"
+      },
+      {
+        "url": "ftp://example.com",
+        "searchParams": {},
+        "status": "valid"
+      }
+    ],
+    "blacklistedUrls": []
+  }
+]
